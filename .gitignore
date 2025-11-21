@@ -1,0 +1,25 @@
+# Nim compiled files
+server
+*.exe
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+
+# Nimble
+nimcache/
+nimblecache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
